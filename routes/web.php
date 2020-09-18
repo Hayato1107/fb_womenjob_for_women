@@ -16,6 +16,9 @@ Route::get('job', function () {
     // return view('fb.job'); //獲得LP(1)
 });
 
+// 女性求人訴求 - OS識別x遷移
+Route::get('os', 'AdController@os');
+
 // LP確認用
 Route::get('cccheck', function () {
     return view('fb.job'); //獲得LP(1)

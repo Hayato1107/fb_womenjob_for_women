@@ -16,9 +16,9 @@
         <div class="big-body">
             <div class="body-top">
                 <h1><span>求人見つけたらラッキー!?<br>悩み相談の高時給バイト！</span></h1>
-                <a href="https://a-trade.jp/redirect/berry?media=G16531"><img src="https://trading-ad.net/a-trade/banner/berry/01/01_600x500.png" class="wide"></a>
+                <a href="./os"><img src="https://trading-ad.net/a-trade/banner/berry/01/01_600x500.png" class="wide"></a>
                 <h1><span>『在宅ワーク』で空いた時間を有効活用！</span></h1>
-                <a href="https://a-trade.jp/redirect/berry?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
                 <p>※リンク切れの場合、募集停止している場合がございます。</p>
             </div>
             
@@ -53,12 +53,12 @@
                     <p>そんな激レア求人が、現在期間限定募集中。応募多数につき<span class="red">途中で募集停止するかもしれない</span>ので、気になる方は公式ページをCHECK。</p>
                     <!--ボタン-->
                     <div class="body-button">
-                        <a href="https://a-trade.jp/redirect/berry?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                        <a href="./os" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
                     </div>
                     <br>
                     <br>
                     <div class="bottom-ad">
-                        <a href="https://a-trade.jp/redirect/berry?media=G16531"><img src="https://trading-ad.net/a-trade/banner/berry/01/01_640x200.png" class="wide"></a>
+                        <a href="./os"><img src="https://trading-ad.net/a-trade/banner/berry/01/01_640x200.png" class="wide"></a>
                     </div>
                     <br>
                     <br>
