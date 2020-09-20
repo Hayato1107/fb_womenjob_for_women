@@ -15,11 +15,11 @@
         
         <div class="big-body">
             <div class="body-top">
+                <img src="{{ asset('image/jobManga_1.png') }}" class="wide">
+                <img src="{{ asset('image/jobManga_2.png') }}" class="wide">
                 <h1><span>求人見つけたらラッキー!?<br>悩み相談の高時給バイト！</span></h1>
-                <a href="./os"><img src="https://trading-ad.net/a-trade/banner/berry/01/01_600x500.png" class="wide"></a>
+                <!--<a href="./os"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide"></a>-->
                 <h1><span>『在宅ワーク』で空いた時間を有効活用！</span></h1>
-                <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
-                <p>※リンク切れの場合、募集停止している場合がございます。</p>
             </div>
             
             <div class="big-body-main">
@@ -29,13 +29,18 @@
                 </div>
                 
                 <div class="body-main-2">
-                    <img src="{{ asset('image/jobManga_1.png') }}">
-                    <img src="{{ asset('image/jobManga_2.png') }}">
+                    <!--<img src="{{ asset('image/jobManga_1.png') }}">-->
+                    <!--<img src="{{ asset('image/jobManga_2.png') }}">-->
                 </div>
                 
                 <div class="body-main-3">
                     <h3>時給3,000円超え..!？<br>自宅で出来るお小遣い稼ぎ!</h3>
+                    <a href="./os"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png"></a>
                     <p>今有名雑誌にも掲載されるなど、巷で話題になりつつある在宅スキマバイト。<br>お手持ちのスマホを使って、<span class="red">空いた1時間からお仕事可能</span>なのが魅力。また、しっかり報酬が高いのも特徴。</p>
+                    <div class="body-button">
+                        <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                        <p>※リンク切れの場合、募集停止している場合がございます。</p>
+                    </div>
                     <br>
                     <h3>お仕事はおしゃべりするだけ..!?<br>悩めるユーザーの相談に乗ろう!</h3>
                     <p>お話は専用アプリを通じて行い、<span class="red">LINE感覚で友達と話す感じでOK</span>。<br>ユーザーの悩みに乗ったり、気になる話題やあなたの話を聞いてもらおう!</p>
@@ -58,7 +63,7 @@
                     <br>
                     <br>
                     <div class="bottom-ad">
-                        <a href="./os"><img src="https://trading-ad.net/a-trade/banner/berry/01/01_640x200.png" class="wide"></a>
+                        <a href="./os"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_640x200.png" class="wide"></a>
                     </div>
                     <br>
                     <br>
