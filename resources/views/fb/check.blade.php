@@ -10,7 +10,8 @@
     </head>
     <body>
         <br>
-        <img src="{{ asset('image/tw_app.png') }}"></img>
-        <p>公式ストアへ遷移します。再度<a href="https://apps.apple.com/jp/app/%E3%83%90%E3%82%A4%E3%83%88-%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AF%E3%82%BF%E3%82%A6%E3%83%B3%E3%83%AF%E3%83%BC%E3%82%AF/id434586962">コチラ</a>をタップして下さい。</p>
+        <h1>転職なら今！<br>あなたのスキルを活かそう！</h1>
+        <img src="{{ asset('image/m_navi.png') }}"></img>
+        <p>公式ストアへ遷移します。<a href="https://apps.apple.com/jp/app/転職ならマイナビ転職/id1155432341">コチラ</a>をタップして下さい。</p>
     </body>
 </html>
