@@ -15,7 +15,8 @@
         
         <div class="big-body">
             <div class="body-top">
-                <a href="https://a-trade.jp/redirect/popo?media=G16531"><img src="{{ asset('image/lp_instagram_job.png') }}" class="wide"></a>
+                <!--<a href="https://a-trade.jp/redirect/popo?media=G16531"><img src="{{ asset('image/lp_instagram_job.png') }}" class="wide"></a>-->
+                <a href="./os"><img src="{{ asset('image/lp_instagram_job.png') }}" class="wide"></a>
                 <!--<img src="{{ asset('image/lp_instagram_job.png') }}" class="wide">-->
                 <img src="{{ asset('image/jobManga_1.png') }}" class="wide">
                 <img src="{{ asset('image/jobManga_2.png') }}" class="wide">
@@ -37,10 +38,12 @@
                 
                 <div class="body-main-3">
                     <!--<h3>時給3,000円超え..!？<br>自宅で出来るお小遣い稼ぎ!</h3>-->
-                    <a href="https://a-trade.jp/redirect/popo?media=G16531"><img src="{{ asset('image/popo-2.jpg') }}" class="wide"></a>
+                    <!--<a href="https://a-trade.jp/redirect/popo?media=G16531"><img src="{{ asset('image/popo-2.jpg') }}" class="wide"></a>-->
+                    <a href="./os"><img src="{{ asset('image/popo-2.jpg') }}" class="wide"></a>
                     <p>今有名雑誌にも掲載されるなど、巷で話題になりつつある在宅スキマバイト。<br>お手持ちのスマホを使って、<span class="red">空いた1時間からお仕事可能</span>なのが魅力。また、しっかり報酬が高いのも特徴。</p>
                     <div class="body-button">
-                        <a href="https://a-trade.jp/redirect/popo?media=G16531" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                        <!--<a href="https://a-trade.jp/redirect/popo?media=G16531" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
+                        <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
                         <p>※リンク切れの場合、募集停止している場合がございます。</p>
                     </div>
                     <br>
