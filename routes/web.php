@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('job', function () {
+Route::get('jo', function () {
     return view('fb.check'); //確認用LP
     // return view('fb.job'); //獲得LP(1)
 });
