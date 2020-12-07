@@ -9,9 +9,9 @@
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
-        <header>
-            <p>『激レア』バイト話題まとめ@5ch</p>
-        </header>
+        <!--<header>-->
+        <!--    <p>『激レア』バイト話題まとめ@5ch</p>-->
+        <!--</header>-->
         
         <div class="big-body">
             <div class="body-top">
@@ -76,7 +76,7 @@
             </div>
         </div>
         <footer>
-            <p>『激レア』バイト話題まとめ@5ch</p>
+            <p>『期間限定』バイト話題まとめ@5ch</p>
         </footer>
     </body>
 </html>
