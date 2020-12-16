@@ -20,7 +20,7 @@
                 <!--<a href="https://a-trade.jp/redirect/moa?media=G16531"><img src="{{ asset('image/lp_instagram_job.png') }}" class="wide"></a>-->
                 <h1><span>求人見つけたらラッキー!?</span></h1>
                 <!--<a href="./os"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide"></a>-->
-                <h1><span>話題の『掛け持ちOK & 在宅ワーク』で、<br>空いた時間をお金に換えよう！</span></h1>
+                <h1><span>『掛け持ちOK & 在宅ワーク』<br>話題のバイトで、<br>空いた時間をお金に換えよう！</span></h1>
             </div>
             
             <div class="big-body-main">
