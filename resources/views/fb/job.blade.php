@@ -43,7 +43,7 @@
                     <p>今有名雑誌にも掲載されるなど、巷で話題になりつつある在宅スキマバイト。<br>お手持ちのスマホを使って、<span class="red">空いた1時間からお仕事可能</span>なのが魅力。また、しっかり報酬が高いのも特徴。</p>
                     <div class="body-button">
                         <!--<a href="https://a-trade.jp/redirect/moa?media=G16531" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
-                        <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事アプリをDL <i class="fas fa-arrow-circle-right"></i></a>
+                        <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
                         <p>※リンク切れの場合、募集停止している場合がございます。</p>
                     </div>
                     <br>
