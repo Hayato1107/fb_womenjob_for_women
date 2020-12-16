@@ -15,13 +15,12 @@
         
         <div class="big-body">
             <div class="body-top">
-                <!--<a href="https://a-trade.jp/redirect/moa?media=G16531"><img src="{{ asset('image/lp_instagram_job.png') }}" class="wide"></a>-->
-                <a href="./os"><img src="{{ asset('image/lp_instagram_job.png') }}" class="wide"></a>
                 <img src="{{ asset('image/jobManga_1.png') }}" class="wide">
                 <img src="{{ asset('image/jobManga_2.png') }}" class="wide">
+                <!--<a href="https://a-trade.jp/redirect/moa?media=G16531"><img src="{{ asset('image/lp_instagram_job.png') }}" class="wide"></a>-->
                 <h1><span>求人見つけたらラッキー!?</span></h1>
                 <!--<a href="./os"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide"></a>-->
-                <h1><span>話題の『在宅ワーク』で、<br>空いた時間をお金に換えよう！</span></h1>
+                <h1><span>話題の『掛け持ちOK & 在宅ワーク』で、<br>空いた時間をお金に換えよう！</span></h1>
             </div>
             
             <div class="big-body-main">
@@ -37,7 +36,8 @@
                 
                 <div class="body-main-3">
                     <!--<h3>時給3,000円超え..!？<br>自宅で出来るお小遣い稼ぎ!</h3>-->
-                    <a href="./os"><img src="{{ asset('image/popo-2.jpg') }}" class="wide"></a>
+                    <a href="./os"><img src="{{ asset('image/youtube_kasegu-2.png') }}" class="wide"></a>
+                    <!--<a href="./os"><img src="{{ asset('image/popo-2.jpg') }}" class="wide"></a>-->
                     <!--<a href="https://a-trade.jp/redirect/moa?media=G16531"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide"></a>-->
                     <!--<a href="https://a-trade.jp/redirect/popo?media=G16531"><img src="{{ asset('image/popo-2.jpg') }}" class="wide"></a>-->
                     <p>今有名雑誌にも掲載されるなど、巷で話題になりつつある在宅スキマバイト。<br>お手持ちのスマホを使って、<span class="red">空いた1時間からお仕事可能</span>なのが魅力。また、しっかり報酬が高いのも特徴。</p>
