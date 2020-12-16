@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('work1', function () {
-    return view('fb.check'); //確認用LP
-    // return view('fb.job'); //獲得LP(1)
+    // return view('fb.check'); //確認用LP
+    return view('fb.job'); //獲得LP(1)
 });
 
 // 女性求人訴求 - OS識別x遷移
