@@ -14,16 +14,25 @@
         <!--</header>-->
         
         <div class="big-body">
-            <div class="body-top">
-                <img src="{{ asset('image/jobManga_1.png') }}" class="wide">
-                <img src="{{ asset('image/jobManga_2.png') }}" class="wide">
+                <img src="{{ asset('image/live_1.png') }}" class="wide">
+                <img src="{{ asset('image/live_2.png') }}" class="wide">
+                <img src="{{ asset('image/live_3.png') }}" class="wide">
+                <img src="{{ asset('image/live_4.png') }}" class="wide">
+                <div class="white">
+                    <a href="./os" class="btn-square-shadow"><img src="{{ asset('image/live_button.png') }}" class="wide"></a>
+                    <br>
+                    <img src="{{ asset('image/live_5.png') }}" class="wide">
+                </div>
+            <!--<div class="body-top">-->
+            <!--    <img src="{{ asset('image/jobManga_1.png') }}" class="wide">-->
+            <!--    <img src="{{ asset('image/jobManga_2.png') }}" class="wide">-->
                 <!--<a href="https://a-trade.jp/redirect/moa?media=G16531"><img src="{{ asset('image/lp_instagram_job.png') }}" class="wide"></a>-->
-                <h1><span>求人見つけたらラッキー!?</span></h1>
+            <!--    <h1><span>求人見つけたらラッキー!?</span></h1>-->
                 <!--<a href="./os"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide"></a>-->
-                <h1><span>『掛け持ちOK & 在宅ワーク』<br>話題のバイトで、<br>空いた時間をお金に換えよう！</span></h1>
-            </div>
+            <!--    <h1><span>『掛け持ちOK & 在宅ワーク』<br>話題のバイトで、<br>空いた時間をお金に換えよう！</span></h1>-->
+            <!--</div>-->
             
-            <div class="big-body-main">
+            <!--<div class="big-body-main">-->
                 <!--<div class="body-main">-->
                 <!--    <h1>おしゃべり好きは必見!?<br>巷で話題の『在宅スキマバイト』って何...!？</h1>-->
                 <!--    <p>2020年09月14日15:02</p>-->
@@ -34,19 +43,20 @@
                     <!--<img src="{{ asset('image/jobManga_2.png') }}">-->
                 <!--</div>-->
                 
-                <div class="body-main-3">
+            <!--    <div class="body-main-3">-->
                     <!--<h3>時給3,000円超え..!？<br>自宅で出来るお小遣い稼ぎ!</h3>-->
-                    <a href="./os"><img src="{{ asset('image/youtube_kasegu-2.png') }}" class="wide"></a>
+                    <!--<a href="./os"><img src="{{ asset('image/youtube_kasegu-2.png') }}" class="wide"></a>-->
                     <!--<a href="./os"><img src="{{ asset('image/popo-2.jpg') }}" class="wide"></a>-->
                     <!--<a href="https://a-trade.jp/redirect/moa?media=G16531"><img src="https://trading-ad.net/a-trade/banner/moa/02/01_600x500.png" class="wide"></a>-->
                     <!--<a href="https://a-trade.jp/redirect/popo?media=G16531"><img src="{{ asset('image/popo-2.jpg') }}" class="wide"></a>-->
-                    <p>今有名雑誌にも掲載されるなど、巷で話題になりつつある在宅スキマバイト。<br>お手持ちのスマホを使って、<span class="red">空いた1時間からお仕事可能</span>なのが魅力。また、しっかり報酬が高いのも特徴。</p>
-                    <div class="body-button">
+                    <!--<p>今有名雑誌にも掲載されるなど、巷で話題になりつつある在宅スキマバイト。<br>お手持ちのスマホを使って、<span class="red">空いた1時間からお仕事可能</span>なのが魅力。また、しっかり報酬が高いのも特徴。</p>-->
+            <!--        <br>-->
+                    <!--<div class="body-button">-->
                         <!--<a href="https://a-trade.jp/redirect/moa?media=G16531" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
-                        <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
-                        <p>※リンク切れの場合、募集停止している場合がございます。</p>
-                    </div>
-                    <br>
+                    <!--    <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>-->
+                    <!--    <p>※リンク切れの場合、募集停止している場合がございます。</p>-->
+                    <!--</div>-->
+                    <!--<br>-->
                     <!--<h3>お仕事はおしゃべりするだけ..!?<br>悩めるユーザーの相談に乗ろう!</h3>-->
                     <!--<p>お話は専用アプリを通じて行い、<span class="red">LINE感覚で友達と話す感じでOK</span>。<br>ユーザーの悩みに乗ったり、気になる話題やあなたの話を聞いてもらおう!</p>-->
                     <!--<br>-->
@@ -72,8 +82,8 @@
                     <!--</div>-->
                     <!--<br>-->
                     <!--<br>-->
-                </div>
-            </div>
+            <!--    </div>-->
+            <!--</div>-->
         </div>
         <footer>
             <p>『期間限定』話題バイトまとめ@5ch</p>
