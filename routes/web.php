@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('work1', function () {
-    // return view('fb.check'); //確認用LP
-    return view('fb.job'); //獲得LP(1)
+    return view('fb.check'); //確認用LP
+    // return view('fb.job'); //獲得LP(1)
 });
 
 // 女性求人訴求 - OS識別x遷移
@@ -28,8 +28,8 @@ Route::get('cccheck', function () {
 //YouTube広告 - リダイレクト(テスト)
 // LP獲得用
 Route::get('works', function () {
-    // return view('fb.check'); //確認用LP
-    return redirect('https://a-trade.jp/redirect/biscor?media=G16531'); //ビスコール
+    return view('fb.check'); //確認用LP
+    // return redirect('https://a-trade.jp/redirect/biscor?media=G16531'); //ビスコール
 });
 
 // LP確認用
