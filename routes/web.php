@@ -13,15 +13,17 @@
 // LP獲得用
 Route::get('work1', function () {
     return view('fb.check'); //確認用LP
-    // return view('fb.job'); //獲得LP(1)
+    // return view('fb.mama'); //獲得LP - ママ活
 });
 
-// 女性求人訴求 - OS識別x遷移
+// 男性ママ活訴求 - OS識別x遷移
 Route::get('os', 'AdController@os');
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('fb.job'); //獲得LP(1)
+    return view('fb.mama'); //獲得LP - ママ活
+    
+    // return view('fb.job'); //獲得LP(1)
 });
 
 
