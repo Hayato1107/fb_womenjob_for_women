@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('work1', function () {
-    return view('fb.check'); //確認用LP
-    // return view('fb.mama'); //獲得LP - ママ活
+    // return view('fb.check'); //確認用LP
+    return view('fb.mama'); //獲得LP - ママ活
 });
 
 // 男性ママ活訴求 - OS識別x遷移
