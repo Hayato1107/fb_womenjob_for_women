@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('app', function () {
-    // return view('fb.check'); //確認用LP
-    return view('fb.adultad'); //YouTube - アダルト大人訴求
+    return view('fb.check'); //確認用LP
+    // return view('fb.adultad'); //YouTube - アダルト大人訴求
     
     // return view('fb.mama'); //獲得LP - ママ活
 });
