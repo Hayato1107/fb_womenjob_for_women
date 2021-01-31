@@ -16,7 +16,7 @@
         <div class="big-body">
                 <img src="{{ asset('image/live_4.png') }}" class="wide">
                 <div class="white">
-                    <a href="./os" class="btn-square-pop">まずは無料登録 <i class="fas fa-arrow-alt-circle-right"></i></a>
+                    <a href="./os" class="btn-square-pop">詳細はコチラ <i class="fas fa-arrow-alt-circle-right"></i></a>
                     <!--<a href="./os" class="btn-square-shadow"><img src="{{ asset('image/live_button.png') }}" class="wide"></a>-->
                     <br>
                     <br>
@@ -31,12 +31,13 @@
                 <!--    <img src="{{ asset('image/live_5.png') }}" class="wide">-->
                 <!--</div>-->
                 <div class="white">
-                    <a href="./os" class="btn-square-pop">まずは無料登録 <i class="fas fa-arrow-alt-circle-right"></i></a>
+                    <a href="./os" class="btn-square-pop">詳細はコチラ <i class="fas fa-arrow-alt-circle-right"></i></a>
                     <!--<a href="./os" class="btn-square-shadow"><img src="{{ asset('image/live_button.png') }}" class="wide"></a>-->
                     <br>
                     <br>
                     <p><span class="white-p">※『イメージと違う...』となれば即刻辞めてOK！</span></p>
                 </div>
+                <img src="{{ asset('image/campaign.png') }}" class="wide">
                 <br>
             <!--<div class="body-top">-->
             <!--    <img src="{{ asset('image/jobManga_1.png') }}" class="wide">-->
