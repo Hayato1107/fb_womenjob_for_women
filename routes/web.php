@@ -13,8 +13,9 @@
 // LP獲得用
 Route::get('app', function () {
     return view('fb.check'); //確認用LP
-    // return view('fb.adultad'); //YouTube - アダルト大人訴求
+    // return view('fb.job'); //獲得LP(1) - チャットレディーweb
     
+    // return view('fb.adultad'); //YouTube - アダルト大人訴求
     // return view('fb.mama'); //獲得LP - ママ活
 });
 
@@ -23,10 +24,10 @@ Route::get('os', 'AdController@os');
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('fb.adultad'); //YouTube - アダルト大人訴求
+    return view('fb.job'); //獲得LP(1)
     
+    // return view('fb.adultad'); //YouTube - アダルト大人訴求
     // return view('fb.mama'); //獲得LP - ママ活
-    // return view('fb.job'); //獲得LP(1)
 });
 
 

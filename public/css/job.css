@@ -17,7 +17,7 @@ img {
   display: inline-block;
   padding: 0.5em 1em;
   text-decoration: none;
-  background: red;/*ボタン色*/
+  /*background: red;*/
   color: #FFF;
   border-bottom: solid 4px #627295;
   border-radius: 3px;
@@ -131,7 +131,7 @@ header p {
 }
 
 .ad h1 {
-    color: red;
+    /*color: red;*/
     font-size: 1em;
     margin-top: 2em;
 }
