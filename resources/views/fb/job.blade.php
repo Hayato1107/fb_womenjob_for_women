@@ -14,7 +14,10 @@
         <!--</header>-->
         
         <div class="big-body">
-                <img src="{{ asset('image/live_1.png') }}" class="wide">
+                <img src="{{ asset('image/live-top.PNG') }}" class="wide">
+                <div class="white">
+                    <a href="./os" class="btn-square-shadow"><img src="{{ asset('image/live_button.png') }}" class="wide"></a>
+                </div>
                 <img src="{{ asset('image/live_2.png') }}" class="wide">
                 <img src="{{ asset('image/live_3.png') }}" class="wide">
                 <img src="{{ asset('image/live_4.png') }}" class="wide">
