@@ -16,7 +16,7 @@
         <div class="big-body">
                 <img src="{{ asset('image/live_4.png') }}" class="wide">
                 <div class="white">
-                    <a href="./os" class="btn-square-pop">詳細はコチラ <i class="fas fa-arrow-alt-circle-right"></i></a>
+                    <a href="./os" class="btn-square-pop">詳細はコチラ <i class="far fa-hand-point-up"></i></a>
                     <!--<a href="./os" class="btn-square-shadow"><img src="{{ asset('image/live_button.png') }}" class="wide"></a>-->
                     <br>
                     <br>
@@ -24,14 +24,14 @@
                 </div>
                 <img src="{{ asset('image/live_2.png') }}" class="wide">
                 <img src="{{ asset('image/live_3.png') }}" class="wide">
-                <img src="{{ asset('image/live-top.PNG') }}" class="wide">
+                <img src="https://trading-ad.net/a-trade/banner/berry/01/01_600x500.png" class="wide">
                 <!--<div class="white">-->
                 <!--    <a href="./os" class="btn-square-shadow"><img src="{{ asset('image/live_button.png') }}" class="wide"></a>-->
                 <!--    <br>-->
                 <!--    <img src="{{ asset('image/live_5.png') }}" class="wide">-->
                 <!--</div>-->
                 <div class="white">
-                    <a href="./os" class="btn-square-pop">詳細はコチラ <i class="fas fa-arrow-alt-circle-right"></i></a>
+                    <a href="./os" class="btn-square-pop">詳細はコチラ <i class="far fa-hand-point-up"></i></a>
                     <!--<a href="./os" class="btn-square-shadow"><img src="{{ asset('image/live_button.png') }}" class="wide"></a>-->
                     <br>
                     <br>
