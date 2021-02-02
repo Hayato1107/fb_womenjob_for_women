@@ -12,8 +12,8 @@
 */
 // LP獲得用
 Route::get('job1', function () {
-    // return view('fb.check'); //確認用LP
-    return redirect('http://www.chatpia.jp/recruit/sp/?b=G16531'); //チャットピア - Aトレード
+    return view('fb.check'); //確認用LP
+    // return redirect('http://www.chatpia.jp/recruit/sp/?b=G16531'); //チャットピア - Aトレード
     // return view('fb.job'); //獲得LP(1) - チャットレディーweb
     
     // return view('fb.adultad'); //YouTube - アダルト大人訴求
