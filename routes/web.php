@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('app', function () {
+Route::get('guy1', function () {
     return view('fb.check'); //確認用LP
     // return view('fb.adultad'); //YouTube - アダルト大人出会い訴求
     
