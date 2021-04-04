@@ -11,9 +11,9 @@
 |
 */
 // LP獲得用
-Route::get('guy1', function () {
+Route::get('women1', function () {
     return view('fb.check'); //確認用LP
-    // cccheckを獲得LP(guy1)へ
+    // cccheckを獲得LP(women1)へ
     
     // return view('fb.adultad'); //YouTube - アダルト大人出会い訴求
     // return redirect('http://www.chatpia.jp/recruit/sp/?b=G16531'); //チャットピア - Aトレード

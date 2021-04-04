@@ -10,8 +10,8 @@
     </head>
     <body>
         <br>
-        <img src="{{ asset('image/livelivelive.png') }}"></img>
-        <p>公式ストアへ遷移します。再度<a href="https://apps.apple.com/jp/app/pococha-%E3%83%9D%E3%82%B3%E3%83%81%E3%83%A3-%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1-%E3%82%A2%E3%83%97%E3%83%AA/id1175969205">コチラ</a>をタップして下さい。</p>
+        <img src="{{ asset('image/uniq.png') }}"></img>
+        <p>公式ストアへ遷移します。再度<a href="https://www.uniqlo.com/jp/ja/women">コチラ</a>をタップして下さい。</p>
         <br>
             <br>
             <br>
